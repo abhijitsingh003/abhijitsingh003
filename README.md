@@ -2,7 +2,7 @@
 
 A guy who's obsessed with the 'why' behind every click.
 
-Currently working on a wellness app concept **Feedo** 🌿that trades calorie counting for lifespan optimization and understands real food decisions (not perfect ones).
+Currently working on a wellness app concept **Feedo** that trades calorie counting for lifespan optimization and understands real food decisions (not perfect ones).
 
 ---
 
@@ -35,6 +35,6 @@ Currently working on a wellness app concept **Feedo** 🌿that trades calorie co
 
 ---
 
-> ✍️ **Random Dev Quote**
+> ✍️ **Dev Quote**
 >
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
