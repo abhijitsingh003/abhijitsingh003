@@ -8,10 +8,10 @@ Currently working on a wellness app concept **Feedo** that trades calorie counti
 
 ### 👀 Interests & Goals
 
-- 🤝 Looking to collaborate on **UI/UX, web apps, and open-source projects**
-- 🧠 Exploring scalable **frontend architecture** and best practices
-- 🌱 Currently learning **JavaScript, MERN stack, and UI/UX design systems**
-- ⚡ I enjoy refining small design details more than adding features
+-  I enjoy refining small design details more than adding features
+-  Currently learning **JavaScript, MERN stack, and UI/UX design systems**
+-  Exploring scalable **frontend architecture** and best practices
+-  Looking to collaborate on **UI/UX, web apps, and open-source projects**
 
 ---
 
