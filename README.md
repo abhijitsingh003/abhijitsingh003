@@ -1,4 +1,4 @@
-# Hey! Myself Abhijit :)
+# Hi! I am Abhijit :)
 
 A guy who's obsessed with the 'why' behind every click.
 
